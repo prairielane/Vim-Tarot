@@ -1,0 +1,73 @@
+*Vim-Tarot.txt* A plugin to provide inspiration for fiction writers based on
+the Rider-Waite Tarot Deck.
+
+===============================================================================
+CONTENTS                                                            *Vim-Tarot*
+
+    1. Intro ................................................ |Vim-Tarot-intro|
+    2. Requirements .................................. |Vim-Tarot-requirements|
+    3. Usage ................................................ |Vim-Tarot-usage|
+    4. Licence ............................................ |Vim-Tarot-licence|
+===============================================================================
+1. Intro                                                      *Vim-Tarot-intro*
+
+Writing a short story or novel can sometimes be a one wild adventure.
+And sometimes a writer needs a little inspiration! Enter Vim-Tarot. This plugin
+provides several functions based on the Rider-Waite tarot deck that can help.
+Everything from a randomly drawn tarot card from the complete deck to the
+Fools Journey.  Figure out what happens next. Find a unique twist in a scene. 
+Deepen your characters’ backgrounds. Create meaningful settings. Identify that 
+“Black Moment.” 
+
+For a complete list of the functions see the Usage Section.
+
+2. Requirements                                        *Vim-Tarot-requirements*
+
+Vim-Tarot requires Vim 8+ and python 3. The following python modules must be
+installed on your system: random, copy, sys, os.
+
+3. Usage                                                      *Vim-Tarot-usage*
+
+How to use the plugin. 
+
+Commands
+--------
+
+| Command                    | List                                       |
+| -------------------------- | ------------------------------------------ |
+| `:TarotCelt`               | Celtic Cross Tarot Reading                 |
+| `:TarotCeltQuestion`       | Questions only for Celtic Cross            |
+| `:TarotCharacter`          | Character Developement using Tarot Cards   |
+| `:TarotCharacterQuestion`  | Questions only for Character Developement  |
+| `:TarotSimple`             | Simple Romance Plot using Tarot Cards      |
+| `:TarotSimpleQuestion`     | Questions only for the Simple Romance Plot |
+| `:TarotComplex`            | Complex Romance Plot using Tarot Cards     |
+| `:TarotComplexQuestion`    | Questions only the Complex Romance Plot    |
+| `:TarotHero`               | Hero's Journey using Tarot Cards           |
+| `:TarotHeroQuestion`       | Steps of the Hero's Journey                |
+| `:TarotDeck`               | Random List of all Tarot Cards             |
+| `:TarotDeckSingle`         | Single Card from Complete Tarot Deck       |
+| `:TarotMajor`              | Random List of Major Arcana Tarot Cards    |
+| `:TarotMajorSingle`        | Single Card from the Major Arcana          |
+| `:TarotMinor`              | Random List of Minor Arcana Tarot Cards    |
+| `:TarotMinorSingle`        | Single Card from the Minor Arcana          |
+| `:TarotCourt`              | Random List of Tarot Court Cards           |
+| `:TarotCourtSingle`        | Single Card from the Court Cards           |
+| `:TarotCups`               | Tarot Cups Cards 1-10                      |
+| `:TarotCupsRandom`         | Single Card from Tarot Cups 1-10           |
+| `:TarotWands`              | Tarot Wands Cards 1-10                     |
+| `:TarotWandsRandom`        | Single Card from Tarot Wands 1-10          |
+| `:TarotSwords`             | Tarot Swords Cards 1-10                    |
+| `:TarotSwordsRandom`       | Single Card from Tarot Swords 1-10         |
+| `:TarotPentacles`          | Tarot Pentacles Cards from 1-10            |
+| `:TarotPentaclesRandom`    | Single Card from Tarot Pentacles 1-10      |  
+| `:TarotFool`               | The Tarot Fools Journey                    |
+| `:TarotFoolRandom`         | Single Card from The Fools Journey         |
+ 
+
+4. Licence                                                  *Vim-Tarot-licence*
+
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+
+
+vim:ft=help
