@@ -1,5 +1,13 @@
 [#](#) Vim-Tarot
 
+Writing a short story or novel can sometimes be a one wild adventure.
+And sometimes a writer needs a little inspiration! Enter Vim-Tarot. This plugin
+provides several functions based on the Rider-Waite tarot deck that can help.
+Everything from a randomly drawn tarot card from the complete deck to the
+Fools Journey.  Figure out what happens next. Find a unique twist in a scene. 
+Deepen your characters’ backgrounds. Create meaningful settings. Identify that 
+“Black Moment.” 
+
 ## Installation
 
 Use your plugin manager of choice.
