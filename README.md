@@ -1,4 +1,4 @@
-[#](#) Vim-Tarot
+## Vim-Tarot
 
 Writing a short story or novel can sometimes be a one wild adventure.
 And sometimes a writer needs a little inspiration! Enter Vim-Tarot. This plugin
