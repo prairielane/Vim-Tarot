@@ -14,14 +14,15 @@ Use your plugin manager of choice.
 
 - [Pathogen](https://github.com/tpope/vim-pathogen)
   - `git clone https://github.com/prairielane/Vim-Tarot ~/.vim/bundle/Vim-Tarot`
+    Remember to run :Helptags to generate help tags
 - [Vundle](https://github.com/gmarik/vundle)
-  - Add `Bundle 'https://github.com/prairielane/Vim-Tarot'` to .vimrc
+  - Add `Bundle 'prairielane/Vim-Tarot'` to .vimrc
   - Run `:BundleInstall`
 - [NeoBundle](https://github.com/Shougo/neobundle.vim)
-  - Add `NeoBundle 'https://github.com/prairielane/Vim-Tarot'` to .vimrc
+  - Add NeoBundle 'prairielane/Vim-Tarot'` to .vimrc
   - Run `:NeoBundleInstall`
 - [vim-plug](https://github.com/junegunn/vim-plug)
-  - Add `Plug 'https://github.com/prairielane/Vim-Tarot'` to .vimrc
+  - Add `Plug 'prairielane/Vim-Tarot'` to .vimrc
   - Run `:PlugInstall`
 
 Commands
